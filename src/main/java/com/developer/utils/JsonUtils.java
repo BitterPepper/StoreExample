@@ -22,7 +22,6 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
  * Class was taken from my home library. I am using it when work with Json
  * and adding new universal features when need.
  * 
- * @author sadovskiy
  *
  */
 public class JsonUtils {
